@@ -1,41 +1,31 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: 지혜✨
+subtitle: 😺
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  자바 개발자 블로그
 
 url: "https://wisdompark96.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 remote_theme: sujaykundu777/devlopr-jekyll
 
 # Navigation
 urls:
     - text: Home
       url: /
-    - text: About
-      url: /about
-    - text: Blog
-      url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
-    - text: Contact
-      url : /contact
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
+author: JiHye Park
+author_bio: 
+author_email: "pjh_02@naver.com"
+author_location: Korea
 author_website_url: "https://sujaykundu.com"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
+            - company_name: 카카오커머스
               company_logo: google.png
               company_url: https://google.com
               designation: Software Engineer
